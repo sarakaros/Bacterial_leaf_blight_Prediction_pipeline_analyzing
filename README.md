@@ -111,13 +111,12 @@ Primary metrics: **AUC + MCC** (accuracy avoided — C5 is 18.5% imbalanced). Le
 ```
 .
 ├── Bacterial_Blight_Leaf_Pipeline.ipynb   # main notebook
-├── README.md                              # Vietnamese
-├── README.en.md                           # English
-├── docs/
-│   └── TONG_HOP_PIPELINE_KETQUA.md         # detailed pipeline & results
-├── results/
+├── README.md                              # English
+├── README.vn.md                           # Vietnamese
+├── Data_export/          # detailed pipeline & results
+├── Evaluation_results/
 │   └── results_ALL_3branch.csv             # all metrics (171 rows)
-└── figures/                                # figures for report/paper
+└── Images/                                # figures for report/paper
 ```
 *(Raw data and `.npz` feature matrices live on Drive, not committed to GitHub.)*
 

@@ -110,13 +110,13 @@ Metric chính: **AUC + MCC** (không dùng accuracy vì C5 lệch 18.5%). Chỉ 
 
 ```
 .
-├── Bacterial_Blight_Leaf_Pipeline.ipynb   # notebook chính
-├── README.md
-├── docs/
-│   └── TONG_HOP_PIPELINE_KETQUA.md         # tài liệu chi tiết pipeline & kết quả
-├── results/
-│   └── results_ALL_3branch.csv             # toàn bộ metric (171 dòng)
-└── figures/                                # hình cho báo cáo/bài báo
+├── Bacterial_Blight_Leaf_Pipeline.ipynb   # main notebook
+├── README.md                              # English
+├── README.vn.md                           # Vietnamese
+├── Data_export/          # detailed pipeline & results
+├── Evaluation_results/
+│   └── results_ALL_3branch.csv             # all metrics (171 rows)
+└── Images/                                # figures for report/paper
 ```
 *(Dữ liệu thô và feature matrix `.npz` để trên Drive, không commit lên GitHub.)*
 
