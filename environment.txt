@@ -1,0 +1,22 @@
+
+Python:
+3.10.20 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:13:20) [MSC v.1942 64 bit (AMD64)]
+
+Platform:
+Windows-10-10.0.19045-SP0
+
+PyTorch:
+2.11.0+cu128
+
+CUDA available:
+True
+
+CUDA version:
+12.8
+
+GPU:
+NVIDIA GeForce RTX 5060 Ti
+
+Colab:
+CPU-12.7GB
+GPU-T4

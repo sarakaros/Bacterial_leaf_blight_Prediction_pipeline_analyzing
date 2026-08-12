@@ -1,0 +1,15 @@
+gene,accession,status,length,moltype,note,desc
+Xa1,AB002266,OK,5910,mRNA,mRNA/cDNA (thieu intron/promoter),"Oryza sativa mRNA for XA1, complete cds"
+Xa3_Xa26,DQ426645.1,OK,6001,DNA,genomic,Oryza sativa (indica cultivar-group) bacteria
+xa5,NM_001402467.1,OK,994,mRNA,mRNA/cDNA (thieu intron/promoter),Oryza sativa Japonica Group transcription ini
+Xa7,MW467883,OK,726,mRNA,mRNA/cDNA (thieu intron/promoter),Oryza sativa Indica Group cultivar IRBB7 Xa7 
+Xa10,JX025645.1,OK,1032,DNA,genomic,Oryza sativa Indica Group cultivar IRBB10A XA
+xa13_SWEET11,NM_001403670.1,OK,1571,mRNA,mRNA/cDNA (thieu intron/promoter),Oryza sativa Japonica Group bidirectional sug
+Xa21,U37133,OK,3921,DNA,genomic,Oryza sativa receptor kinase-like protein (Xa
+Xa23,KP123634.1,OK,1720,DNA,genomic,Oryza sativa Indica Group executor R protein 
+Xa27,AY986492.1,OK,2361,DNA,genomic,Oryza sativa (indica cultivar-group) Xa27 (Xa
+xa25_SWEET13,KC915031.1,OK,3208,DNA,genomic,Oryza sativa Indica Group cultivar Minghui 63
+Xa48,OR712925,OK,7860,DNA,genomic,Oryza sativa Indica Group cultivar Shuangkeza
+Xa4,(chua co),CAN AUDIT,-,-,,
+xa41_SWEET14,(chua co),CAN AUDIT,-,-,,
+Xa47,(chua co),CAN AUDIT,-,-,,
