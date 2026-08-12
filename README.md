@@ -130,10 +130,48 @@ All research progress, experiment logs, and reference sources are tracked on Not
 
 ---
 
-## Citation
 
-*(to be updated once the ISDS 2026 paper is accepted)*
+## References
+
+[1] Lu J. et al. (2021). GWAS dissects resistance loci against bacterial blight… *Rice* 14:22. DOI: 10.1186/s12284-021-00462-3. [Link](https://link.springer.com/article/10.1186/s12284-021-00462-3)
+
+[2] Iyer A.S. & McCouch S.R. (2004). *MPMI* 17(12):1348–1354. (xa5 = TFIIAγ5). [Link](https://pubmed.ncbi.nlm.nih.gov/15597740/)
+
+[3] Jiang G. et al. (2006). *Mol Genet Genomics* 275:354–366. (xa5 complementation). [Link](https://link.springer.com/article/10.1007/s00438-005-0091-7)
+
+[4] Hu K. et al. (2017). Xa4 encodes a wall-associated kinase. (Xa4 = WAK, chr11). [Link](https://pubmed.ncbi.nlm.nih.gov/28211849/)
+
+[5] Li M. et al. (2025). Xa50(t) in the Xa4 locus. *Front Plant Sci*. DOI: 10.3389/fpls.2025.1657476. [Link](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2025.1657476/full)
+
+[6] Kim S.-M. & Reinke R.F. (2019). Xa43(t) by GWAS + QTL. *PLoS ONE*. DOI: 10.1371/journal.pone.0211775. (chr11:27.83–27.95 Mb). [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0211775)
+
+[7] Kim S.-M. et al. (2018). xa44(t) by QTL linkage. *Theor Appl Genet*. (chr11:28.0–28.12 Mb). [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC6244528/)
+
+[8] ULR207 QTL-seq (2025). qtlBBchr8 (chr8:0–5 Mb). *Plants*. [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12298398/)
+
+[9] Kawahara Y. et al. (2013). IRGSP-1.0 reference. *Rice* 6:4. [Link](https://link.springer.com/article/10.1186/1939-8433-6-4)
+
+[10] Yoshimura et al. (1998). Expression of Xa1, a bacterial blight-resistance gene in rice, is induced by bacterial inoculation.
+
+[11] Song et al. (1995). A receptor kinase-like protein encoded by the rice disease resistance gene, Xa21.
+
+[12] Sun et al. (2004). Xa26 encodes an LRR receptor kinase-like protein conferring bacterial blight resistance.
+
+[13] Jiang et al. (2006). Genetic complementation of xa5 and comparison of the TFIIAγ genes in rice.
+
+[14] Tian et al. (2014). The rice TAL effector-dependent resistance protein XA10 triggers cell death and calcium depletion in the endoplasmic reticulum.
+
+[15] Chu et al. (2006). Promoter mutations of an essential gene for pollen development result in disease resistance in rice.
+
+[16] Wang et al. (2015). XA23 is an executor R protein and confers broad-spectrum disease resistance in rice.
+
+[17] Liu et al. (2011). A paralog of the MtN3/saliva family recessively confers race-specific resistance to *Xanthomonas oryzae* in rice.
+
+[18] Gu et al. (2005). R gene expression induced by a type-III effector triggers disease resistance in rice.
+
 
 ## License
 
-*(add a LICENSE — e.g. MIT — if you plan to make it public)*
+Copyright (c) 2026 THACH THANH NHI
+
+This project is licensed under the MIT License.
